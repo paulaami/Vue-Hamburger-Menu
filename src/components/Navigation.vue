@@ -3,7 +3,11 @@
     <nav :class="{ 'scrolled-nav': scrolledNav }">
       <div class="branding">
         <img src="@/assets/logo.png" alt="Logo" />
+<<<<<<< HEAD
         <h1></h1>
+=======
+        <h1>My idea</h1>
+>>>>>>> myidea
       </div>
       <ul v-show="!mobile" class="navigation">
         <li>
