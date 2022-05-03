@@ -4,6 +4,7 @@
       <div class="branding">
         <img src="@/assets/logo.png" alt="Logo" />
         <h1>Master H1</h1>
+        <h2>Added Master h2</h2>
       </div>
       <ul v-show="!mobile" class="navigation">
         <li>
