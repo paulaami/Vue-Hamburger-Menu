@@ -4,7 +4,7 @@
       <div class="branding">
         <img src="@/assets/logo.png" alt="Logo" />
         <h1>Branch Test</h1>
-        <h2>Test2</h2>
+        <h2>Test2222222</h2>
       </div>
       <ul v-show="!mobile" class="navigation">
         <li>
